@@ -117,7 +117,7 @@ Detailed documentation available in `/docs`:
 
 For enterprise support or custom implementations:
 - Email: joncreates1@gmail.com or jonathan@jonnyvpc.com
-- Website: [Your Profile](https://www.jonnyvpc.com)
+- Website: [Jonthan "VPC" Jackson - Lets get it✅](https://www.jonnyvpc.com)
 
 ## 📜 License
 
