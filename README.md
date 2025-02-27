@@ -140,6 +140,7 @@ Track key metrics:
 
 ## 🤝 Contributing
 
+<<<<<<< HEAD
 We welcome contributions! See our [Contributing Guide](CONTRIBUTING.md).
 
 ## 📫 Support
@@ -147,6 +148,11 @@ We welcome contributions! See our [Contributing Guide](CONTRIBUTING.md).
 - [Issue Tracker](https://github.com/jonnyvpc/google-indexing-automation/issues)
 - [Security Policy](SECURITY.md)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
+=======
+For enterprise support or custom implementations:
+- Email: joncreates1@gmail.com or jonathan@jonnyvpc.com
+- Website: [Jonthan "VPC" Jackson - Lets get it✅](https://www.jonnyvpc.com)
+>>>>>>> a0f472e3838097ca1084b184dbeef7a6aafcd56b
 
 ## 📜 License
 
