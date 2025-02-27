@@ -116,8 +116,8 @@ Detailed documentation available in `/docs`:
 ## 🤝 Support
 
 For enterprise support or custom implementations:
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- Email: joncreates1@gmail.com or jonathan@jonnyvpc.com
+- Website: [Your Profile](https://www.jonnyvpc.com)
 
 ## 📜 License
 
