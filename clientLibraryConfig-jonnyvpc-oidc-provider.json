@@ -1,0 +1,13 @@
+{
+  "audience": "//iam.googleapis.com/projects/1006205970987/locations/global/workloadIdentityPools/jonnyvpc-identity-pool/providers/jonnyvpc-oidc-provider",
+  "credential_source": {
+    "file": "assertion.sub",
+    "format": {
+      "type": "text"
+    }
+  },
+  "subject_token_type": "urn:ietf:params:oauth:token-type:jwt",
+  "token_url": "https://sts.googleapis.com/v1/token",
+  "type": "external_account",
+  "universe_domain": "googleapis.com"
+}
