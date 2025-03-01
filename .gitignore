@@ -47,3 +47,4 @@ service-account*.json
 # System
 .DS_Store
 Thumbs.db
+presentation_assets/
